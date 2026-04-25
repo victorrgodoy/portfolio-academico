@@ -42,8 +42,8 @@ Atualmente sou Desenvolvedor Full Stack em uma startup focada em soluções tecn
 ---
 
 **2023-2 — Plataforma Web sobre Scrum**
-Empresa parceira: *a preencher*
-[Repositório](#)
+Empresa parceira: FATEC São José dos Campos - SP
+[Repositório](projects/api-1-semestre.md)
 
 ---
 
