@@ -2,7 +2,8 @@
 
 **2023-2**
 
-Empresa: FATEC São José dos Campos - SP Profº Antônio Egydio São Tiago Graça
+**Empresa:** FATEC São José dos Campos - SP 
+Profº Antônio Egydio São Tiago Graça
 
 ## Problema
 Projeto acadêmico desenvolvido em parceria com uma empresa que identificou dificuldades na adoção da metodologia Scrum por seus colaboradores. A falta de entendimento sobre papéis, eventos e artefatos gerava ruídos de comunicação, atrasos nas entregas e baixa colaboração entre times.
