@@ -47,8 +47,8 @@ Empresa parceira: FATEC São José dos Campos - SP
 ---
 
 **2024-1 — Aplicação Desktop com Consulta em Linguagem Natural**
-Empresa parceira: *a preencher*
-[Repositório](#)
+Empresa parceira: FATEC São José dos Campos - SP
+[Repositório](projects/api-2-semestre.md)
 
 ---
 
