@@ -53,8 +53,8 @@ Empresa parceira: FATEC São José dos Campos - SP
 ---
 
 **2025-1 — Plataforma Web com Dashboard de Comércio Exterior Brasileiro**
-Empresa parceira: *a preencher*
-[Repositório](#)
+Empresa parceira: FATEC São José dos Campos - SP
+[Repositório](projects/api-3-semestre.md)
 
 ---
 

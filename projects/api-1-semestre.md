@@ -54,9 +54,9 @@ Participei ativamente da etapa de design no **Figma**, contribuindo com ideias e
 ## Soft skills
 
 **Proatividade**
-
-No início do projeto, a equipe ainda não havia definido formalmente o papel de Product Owner. Ao longo das primeiras sprints, fui naturalmente me aprofundando nos requisitos do cliente e nas necessidades do produto, passando a centralizar as informações e a estruturar o backlog de forma independente. Ao perceber essa dinâmica, apresentei o backlog organizado com as user stories à equipe, que reconheceu a iniciativa e formalizou minha atuação como PO. Essa postura proativa foi determinante para dar direção ao projeto em uma fase inicial onde as responsabilidades ainda estavam sendo distribuídas.
+*No início do projeto, a equipe ainda não havia definido formalmente o papel de Product Owner. Ao longo das primeiras sprints, fui naturalmente me aprofundando nos requisitos do cliente e nas necessidades do produto, passando a centralizar as informações e a estruturar o backlog de forma independente. Ao perceber essa dinâmica, apresentei o backlog organizado com as user stories à equipe, que reconheceu a iniciativa e formalizou minha atuação como PO. Essa postura proativa foi determinante para dar direção ao projeto em uma fase inicial onde as responsabilidades ainda estavam sendo distribuídas.*
 
 **Comunicação**
+*Durante todo o projeto, mantive a equipe atualizada sobre o andamento das demandas, o que já havia sido concluído e o que ainda estava pendente. Esse alinhamento constante foi especialmente importante no papel de PO, já que eu era o elo entre o cliente e o time de desenvolvimento. Ao traduzir as necessidades do cliente em requisitos claros e repassá-los de forma objetiva, reduzi retrabalhos e evitei que a equipe iniciasse implementações com entendimentos divergentes sobre o produto.*
 
-Durante todo o projeto, mantive a equipe atualizada sobre o andamento das demandas, o que já havia sido concluído e o que ainda estava pendente. Esse alinhamento constante foi especialmente importante no papel de PO, já que eu era o elo entre o cliente e o time de desenvolvimento. Ao traduzir as necessidades do cliente em requisitos claros e repassá-los de forma objetiva, reduzi retrabalhos e evitei que a equipe iniciasse implementações com entendimentos divergentes sobre o produto.
+[Voltar](../README.md)
