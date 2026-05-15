@@ -76,8 +76,8 @@ Empresa parceira: FATEC São José dos Campos - SP
 ---
 
 **2025-2 — Plataforma Web com Agente de IA para Registro Aduaneiro**
-Empresa parceira: *a preencher*
-[Repositório](#)
+Empresa parceira: Empresa TecSys
+[Repositório](projects/api-4-semestre.md)
 
 
 
