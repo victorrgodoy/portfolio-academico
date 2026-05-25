@@ -79,6 +79,11 @@ Empresa parceira: FATEC São José dos Campos - SP
 Empresa parceira: Empresa TecSys
 [Repositório](projects/api-4-semestre.md)
 
+--
+**2026-1 — Aplicação Mobile e Web para Centralização e Triagem de Atendimento**
+Empresa parceira: Empresa Pro4Tech
+[Repositório](projects/api-5-semestre.md)
+
 
 
 
