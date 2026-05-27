@@ -31,7 +31,9 @@ A solução oferece flexibilidade total: os clientes interagem por um aplicativo
 ## Contribuições Pessoais
 
 ### Desenvolvedor Back-End
-Atuei como responsável pelo desenvolvimento do Back-End da plataforma, utilizando o ecossistema NestJS com foco em uma arquitetura modular altamente escalável, tipada e organizada. Implementei o padrão de camadas dentro de cada módulo do framework, dividindo as responsabilidades da seguinte forma:
+Fui responsável por estruturar toda a infraestrutura de containers Docker do projeto, criando e configurando o ambiente com docker-compose, garantindo que toda a equipe tivesse um ambiente padronizado, isolado e pronto para desenvolvimento desde o início do projeto.
+
+Além disso, atuei como responsável pelo desenvolvimento do Back-End da plataforma, utilizando o ecossistema NestJS com foco em uma arquitetura modular altamente escalável, tipada e organizada. Implementei o padrão de camadas dentro de cada módulo do framework, dividindo as responsabilidades da seguinte forma:
 Controllers: Gerenciamento de rotas, validação de requisições (DTOs) e controle de entrada/saída de dados.
 Services: Centralização, isolamento e execução de toda a lógica de negócio da aplicação.
 Repositories + Prisma ORM: Camada isolada para comunicação direta com o banco de dados, utilizando o Prisma como ORM para garantir consultas eficientes, seguras e com tipagem estática ponta a ponta.
