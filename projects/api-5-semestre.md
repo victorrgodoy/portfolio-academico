@@ -24,6 +24,7 @@ A solução oferece flexibilidade total: os clientes interagem por um aplicativo
 | **Nest.js**           | Framework escalável em Node.js utilizado para a construção da API RESTful do backend. |
 | **Next.js** |         Framework React utilizado para o desenvolvimento do frontend web, permitindo renderização no lado do servidor (SSR), gerenciamento eficiente de rotas e otimização de performance.
 | **React.js**         | Biblioteca utilizada para construir a interface web do usuário, com foco em componentes interativos, painéis e dashboards. |
+| **Tailwind CSS**         | Framework CSS utilizado para a estilização e construção dos elementos visuais da interface web. |
 | **MiniIO** |          Servidor de armazenamento de objetos de alta performance, utilizado para gerenciar e armazenar mídias, imagens e anexos trafegados no chat. |
 | **Git**         | Sistema de controle de versão utilizado para gerenciar e versionar o código-fonte.                                   |
 | **Figma** | Software de design usado para criar o protótipo visual e o layout das telas. |
@@ -54,6 +55,7 @@ Arquitetura de Componentes: Estruturei o projeto seguindo as melhores práticas 
 | **React.js** | Autonomia | Criação da interface do usuário com foco em componentes interativos, reaproveitáveis e estruturação de layouts.
 | **Next.js** | Autonomia | Desenvolvimento do ecossistema web com renderização no lado do servidor (SSR), controle de rotas e autenticação/validação de papéis via cookies.
 | **Mongodb** | Com Ajuda | Armazenamento de dados flexíveis e de rápida leitura, como a persistência de mensagens e históricos dos chats. |
+| **Tailwind CSS** | Autonomia | Estilização da interface utilizando classes utilitárias para construção de layouts, componentes visuais e responsividade. |
 | **Git**         | Autonomia | Controle de versão, trabalho em equipe com branches e gestão de repositórios. |
 
 ## Soft Skills
