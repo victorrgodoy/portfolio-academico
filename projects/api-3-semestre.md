@@ -11,7 +11,7 @@ A principal barreira na análise dos dados do comércio exterior brasileiro est�
 #### Solução:
 Desenvolvemos uma plataforma web focada em simplificar a interpretação de dados de exportação e importação. Através de painéis visuais e gráficos interativos, o usuário consegue extrair insights detalhados de qualquer produto apenas pesquisando seu nome. O sistema permite visualizar o volume comercial por estado, país e município, além de identificar as vias de transporte mais utilizadas e as respectivas unidades da Receita Federal. A ferramenta também possibilita análises comparativas anuais, filtros por períodos específicos e confrontação direta de dados entre diferentes estados ou países.
 
-##### [Repositório](https://github.com/CodeDontBlow/PontoLog)
+##### [Repositório](https://github.com/codedontblow-org/PontoLog)
 
 #### Tecnologias Utilizadas
 | **Tecnologia**  | **Funcionalidade**                                                                                                   |
