@@ -87,7 +87,7 @@ Empresa parceira: Pro4Tech
 
 ---
 
-**2026-2 — Plataforma Web com IA Generativa para criar novas campanhas de comissionamento**
+**2026-2 — Plataforma Web com IA Generativa para Criar Novas Campanhas de Comissionamento**
 Empresa parceira: Dom Rock
 [Repositório](projects/api-6-semestre.md)
 
