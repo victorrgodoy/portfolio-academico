@@ -2,7 +2,7 @@
 
 **2026-2**
 
-**Empresa**: Empresa Dom Rock  
+**Empresa**: Dom Rock  
 André de Almeida
 
 #### Problema

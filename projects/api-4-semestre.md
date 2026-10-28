@@ -2,7 +2,7 @@
 
 **2025-2**
 
-**Empresa**: Empresa TecSys
+**Empresa**: TecSys
 Creonice Honório
 
 #### Problema

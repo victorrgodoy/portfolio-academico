@@ -2,7 +2,7 @@
 
 **2026-1**
 
-**Empresa**: Empresa Pro4Tech
+**Empresa**: Pro4Tech
 Rafael Monteiro
 
 #### Problema
