@@ -76,14 +76,20 @@ Empresa parceira: FATEC São José dos Campos - SP
 ---
 
 **2025-2 — Plataforma Web com Agente de IA para Registro Aduaneiro**
-Empresa parceira: Empresa TecSys
+Empresa parceira: TecSys
 [Repositório](projects/api-4-semestre.md)
 
 ---
 
 **2026-1 — Aplicação Mobile e Web para Centralização e Triagem de Atendimento**
-Empresa parceira: Empresa Pro4Tech
+Empresa parceira: Pro4Tech
 [Repositório](projects/api-5-semestre.md)
+
+---
+
+**2026-2 — Plataforma Web com IA Generativa para criar novas campanhas de comissionamento**
+Empresa parceira: Dom Rock
+[Repositório](projects/api-6-semestre.md)
 
 
 
