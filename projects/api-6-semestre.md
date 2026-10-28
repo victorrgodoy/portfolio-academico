@@ -2,7 +2,7 @@
 
 **2026-2**
 
-**Empresa**: Empresa Dom Rock
+**Empresa**: Empresa Dom Rock  
 André de Almeida
 
 #### Problema
@@ -37,10 +37,10 @@ Fui responsável por toda a estruturação da camada de segurança e controle de
 Desenvolvi o **Role-Based Access Control (RBAC)**, garantindo que o roteamento das requisições respeitasse estritamente a matriz de perfis (Administrador, Gerente e Supervisor). Pensando na produtividade da equipe, criei um *profile dev* customizado no Spring que simulava autenticações via *headers*, acelerando os testes sem comprometer a segurança.
 Atuei também no CRUD completo de Usuários, implementando o conceito de *Soft Delete* (desativação lógica via *migrations* no **Flyway**) para garantir a rastreabilidade histórica das campanhas. Para assegurar a confiabilidade de todas essas lógicas (exceções 401, 403 e 409), escrevi baterias completas de testes automatizados com **JUnit**.
 
-### Engenharia de Dados & Inteligência Artificial
-Atuei ativamente no motor de inteligência artificial (microsserviço *Lana*). Desenvolvi a ferramenta **Text-to-SQL**, que permite ao agente consultar o banco de dados de forma autônoma a partir de contextos fornecidos via RAG (Retrieval-Augmented Generation). 
-Para garantir a segurança, integrei a API do **Google Gemini** implementando **Guardrails** rigorosos, limitando a IA apenas ao escopo desejado e validando as consultas SQL para evitar comportamentos inesperados. Fui o responsável por documentar toda essa arquitetura (Query Tool), incluindo diagramas e visão geral.
-Além disso, atuei na **Engenharia de Dados** inicial: recebi os dados brutos de vendas e RH da empresa, realizei a normalização e criei os diagramas conceituais e lógicos que serviram de base estrutural para a modelagem do banco de dados relacional. Todo esse fluxo de IA e dados foi blindado com testes unitários em **Pytest**.
+### Modelagem de Dados & Inteligência Artificial
+Atuei ativamente no motor de inteligência artificial do sistema (microsserviço Lana). Desenvolvi a ferramenta de **Text-to-SQL**, que permite ao agente consultar o banco de dados de forma autônoma a partir de contextos fornecidos via RAG (Retrieval-Augmented Generation). Para garantir a segurança e a precisão dessa funcionalidade, integrei a API do Google Gemini (Flash) e implementei Guardrails rigorosos, limitando a atuação da IA apenas ao escopo desejado e validando as consultas geradas para evitar comportamentos indesejados.
+
+Além disso, fui responsável por toda a etapa de Modelagem de Dados do projeto: recebi os dados brutos da empresa, realizei a normalização e criei os diagramas conceituais e lógicos que serviram de base estrutural para a criação do banco de dados relacional. Para garantir a confiabilidade de todas as rotas e regras de negócio do microsserviço de IA sem depender de chamadas externas custosas, estruturei e executei testes unitários com *mocks* e *fakes* utilizando o **Pytest**, além de elaborar a documentação técnica completa da Query Tool (visão geral, diagramas e roteiro de testes).
 
 ## Hard Skills
 | Tecnologia      | Proficiência       | Descrição                                                                     |
@@ -50,11 +50,13 @@ Além disso, atuei na **Engenharia de Dados** inicial: recebi os dados brutos de
 | **Vue.js / Vitest** | Autonomia     | Criação de interfaces reativas, componentização, validação de formulários e testes de UI. |
 | **PostgreSQL**  | Autonomia     | Modelagem do banco (conceitual/lógico), normalização de dados e *queries* seguras. |
 | **LangGraph / LLM** | Autonomia | Desenvolvimento de agentes de IA, RAG, implementação de Guardrails e prompts. |
+| **Pytest**      | Autonomia     | Desenvolvimento de testes unitários isolados com fakes e validação do fluxo do agente. |
 | **Docker**      | Autonomia     | Subida e integração do ecossistema de microsserviços localmente e em CI. | 
 
 ## Soft Skills
-- **Foco em Qualidade e Resiliência:** *Implementei uma cultura forte de testes em todas as camadas (Vitest no Front, JUnit no Back e Pytest na IA). Isso garantiu que o código entregue desde as primeiras Sprints fosse altamente resiliente e documentado, reduzindo significativamente os bugs em produção.*
-- **Visão Sistêmica (DX e UX):** *Além de focar no cliente final desenvolvendo interfaces com tratamento amigável de erros e validações em tempo real, também me preocupei com o time (Developer Experience). A criação do 'Profile Dev' no Spring para ignorar tokens durante o desenvolvimento acelerou muito o trabalho de integração dos outros desenvolvedores.*
-- **Autonomia e Autogestão:** *Atuei de ponta a ponta na aplicação, navegando com fluidez entre banco de dados, construção da IA, segurança no backend e renderização na interface, entregando tarefas complexas dentro do prazo e liderando a documentação de arquiteturas críticas, como a Query Tool.*
+- **Comunicação Ativa e Alinhamento Técnico:** *Mantive transparência constante sobre o andamento das tarefas e decisões técnicas com toda a equipe. Produzi documentações técnicas detalhadas (como a da Query Tool) e estruturei contratos claros de integração (DTOs, contratos gRPC e profile dev no Spring), garantindo que os colegas pudessem consumir os serviços e desenvolver em paralelo sem bloqueios ou retrabalho.*
+- **Foco em Qualidade e Resiliência:** *Implementei uma cultura sólida de testes automatizados cobrindo todas as frentes da aplicação (Vitest no Front, JUnit no Back e Pytest na IA). Isso garantiu que o código integrado fosse robusto, documentado e resistente a regressões desde as primeiras Sprints.*
+- **Visão Sistêmica (DX e UX):** *Além de pensar na usabilidade do usuário final (com validações de formulário em tempo real e mensagens amigáveis de erro), tive preocupação ativa com a experiência dos desenvolvedores do time, implementando mecanismos que facilitavam os testes locais e a integração contínua.*
+- **Autonomia e Autogestão:** *Atuei de ponta a ponta na arquitetura da solução, assumindo demandas críticas de Modelagem de Dados, Engenharia de Prompt/IA, Segurança de APIs e desenvolvimento Front-End, cumprindo os critérios de aceite estabelecidos sem necessidade de microgerenciamento.*
 
 [Voltar](../README.md)
