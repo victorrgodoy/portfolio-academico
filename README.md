@@ -1,14 +1,14 @@
-# Portifólio Acadêmico
+# Portfólio Acadêmico
 
 <img align="right" src="assets/eu.jpeg" alt="Foto de Victor Godoy" width="300"/>
 
 ### Introdução   
-Olá meu nome é Victor Godoy, atualmente estou cursando o 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos - Prof. Jessen Vidal.
+Olá, meu nome é Victor Godoy, e atualmente estou concluindo o 6º e último semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos - Prof. Jessen Vidal.
 
 ### Motivação
-Tudo começou meio por acaso, vendo meu primo trabalhar com programação, meu interesse veio mesmo na prática: entrei na FATEC e, logo no primeiro semestre, conquistei o 2º lugar na maratona de programação.
+Tudo começou meio por acaso, vendo meu primo trabalhar com programação, mas meu interesse veio mesmo na prática: entrei na FATEC e, logo no primeiro semestre, conquistei o 2º lugar na maratona de programação.
 
-Hoje, foco minha evolução no ecossistema Full Stack. Mais do que escrever código, gosto de entender como a estrutura se sustenta, aplicando boas práticas de arquitetura para construir sistemas complexos bem organizados. Além disso, busco dominar o ciclo completo da aplicação, explorando cada vez mais a infraestrutura para garantir que sistemas complexos operem em ambientes escaláveis e de alta disponibilidade.
+Hoje, foco minha evolução no ecossistema Full Stack. Mais do que escrever código, gosto de entender como a estrutura se sustenta, aplicando boas práticas de arquitetura para construir sistemas complexos bem organizados. Além disso, busco dominar o ciclo completo da aplicação, explorando cada vez mais a infraestrutura para garantir que sistemas operem em ambientes escaláveis e de alta disponibilidade.
 
 ### Conquistas e Certificações
 
@@ -36,13 +36,15 @@ Atualmente sou Desenvolvedor Full Stack em uma startup focada em soluções tecn
 
 [![GitHub](https://img.shields.io/badge/GitHub-VictorGodoy-181717?style=flat&logo=github)](https://github.com/seu-usuario)
 
+[![E-mail](https://img.shields.io/badge/E--mail-vgodoy.dev%40icloud.com-3693F3?style=flat&logo=icloud&logoColor=white)](mailto:vgodoy.dev@icloud.com)
+
 ### Principais Conhecimentos
 
 **Linguagens**  
-`TypeScript` `PHP` `Java`
+`TypeScript` `PHP` `Java` `Python`
 
 **Back-end**  
-`Laravel` `NestJS` `Spring Boot`
+`Laravel` `NestJS` `Spring Boot` `FastAPI`
 
 **Front-end**  
 `Angular` `React` `TailwindCSS`
@@ -57,41 +59,36 @@ Atualmente sou Desenvolvedor Full Stack em uma startup focada em soluções tecn
 
 ---
 
-**2023-2 — Plataforma Web sobre Scrum**
-Empresa parceira: FATEC São José dos Campos - SP
+**2023-2 — Plataforma Web sobre Scrum**  
+Empresa parceira: FATEC São José dos Campos - SP  
 [Repositório](projects/api-1-semestre.md)
 
 ---
 
-**2024-1 — Aplicação Desktop com Consulta em Linguagem Natural**
-Empresa parceira: FATEC São José dos Campos - SP
+**2024-1 — Aplicação Desktop com Consulta em Linguagem Natural**  
+Empresa parceira: FATEC São José dos Campos - SP  
 [Repositório](projects/api-2-semestre.md)
 
 ---
 
-**2025-1 — Plataforma Web com Dashboard de Comércio Exterior Brasileiro**
-Empresa parceira: FATEC São José dos Campos - SP
+**2025-1 — Plataforma Web com Dashboard de Comércio Exterior Brasileiro**  
+Empresa parceira: FATEC São José dos Campos - SP  
 [Repositório](projects/api-3-semestre.md)
 
 ---
 
-**2025-2 — Plataforma Web com Agente de IA para Registro Aduaneiro**
-Empresa parceira: TecSys
+**2025-2 — Plataforma Web com Agente de IA para Registro Aduaneiro**  
+Empresa parceira: TecSys  
 [Repositório](projects/api-4-semestre.md)
 
 ---
 
-**2026-1 — Aplicação Mobile e Web para Centralização e Triagem de Atendimento**
-Empresa parceira: Pro4Tech
+**2026-1 — Aplicação Mobile e Web para Centralização e Triagem de Atendimento**  
+Empresa parceira: Pro4Tech  
 [Repositório](projects/api-5-semestre.md)
 
 ---
 
-**2026-2 — Plataforma Web com IA Generativa para Criar Novas Campanhas de Comissionamento**
-Empresa parceira: Dom Rock
+**2026-2 — Plataforma Web com IA Generativa para Criar Novas Campanhas de Comissionamento**  
+Empresa parceira: Dom Rock  
 [Repositório](projects/api-6-semestre.md)
-
-
-
-
-
